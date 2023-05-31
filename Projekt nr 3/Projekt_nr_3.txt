@@ -1,0 +1,8 @@
+PROJEKT NR3.
+Rozwiąż układ algebraicznych równań liniowych postaci:
+		Ax=b
+gdzie
+	A={aij},	i, j = 1, 2, 3, ..., n
+	X={xij},	i, j = 1, 2, 3, ..., n
+	b={bi},		i = 1, 2, 3, ..., n
+metodą rozkładu na czynniki trójkątne (LU)

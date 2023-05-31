@@ -1,0 +1,7 @@
+PROJEKT NR2.
+W pliku zapisany jest dowolny tekst. Napisz program stronicujący ten 
+tekst dla dowolnej długości strony. Na każdej stronie należy wyprowa-
+dzić nagłówek zawierający stały zestaw informacji, np: nazwa pliku lub
+tytuł tekstu, numer strony, data wydruku, właściciel pliku. Zestawem
+danych pojawiających się w nagłówku należy sterować przez argumenty
+programu.

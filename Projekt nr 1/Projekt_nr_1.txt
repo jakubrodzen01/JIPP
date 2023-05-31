@@ -1,0 +1,14 @@
+PROJEKT NR1.
+Policz wartości funkcji 𝑦 = 𝑓(𝑥) we wszystkich punktach podziału na 𝑛 części przedziału [𝑎, 𝑏].
+Funkcja 𝑓 dana jest w postaci rozwinięcia w szereg potęgowy i w postaci wzoru analitycznego.
+Obliczanie sumy szeregu wykonaj z dokładnością 𝜀. Algorytm obliczania sumy szeregu zapisz w
+oddzielnej funkcji.
+Uzupełnij funkcję obliczającą sumę szeregu tak, by sumowanych było co najwyżej 𝑀 wyrazów
+szeregu. Oznacza to, że przerwanie sumowania może nastąpić również wtedy, gdy nie została
+osiągnięta żądana dokładność. Informacja o tym, czy została osiągnięta dokładność czy też nie
+winna być znana w funkcji main().
+Uzupełnij funkcję obliczającą sumę szeregu tak, by w funkcji main() znana była dodatkowo
+liczba sumowanych wyrazów szeregu.
+Wyniki wyświetl na ekranie i zapisz do pliku. Wyniki przedstaw w następującym układzie:
+
+x | f_szereg(x) | f_ścisłe(x) | liczba wyrazów szeregu warunek stopu

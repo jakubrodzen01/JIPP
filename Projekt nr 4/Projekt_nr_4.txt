@@ -1,0 +1,12 @@
+PROJEKT NR4.
+Zaimplementuj stos (LIFO) i kolejkę (FIFO) w dwóch wariantach - za pomocą listy oraz za pomocą tablic (w sumie 4 projekty). Napisz menu  oraz odpowiednie funkcje pozwalające na: 
+
+dodawanie elementu.
+pobranie elementu;
+wyszukanie konkretnego elementu po określonym polu (np. nazwisku);
+wypisanie wszystkich elementów;
+sprawdzenie liczby elementów w strukturze ;
+usunięcie całej struktury (wszystkich elementów kolejki, stosu);
+Niech danymi kolejki/stosu będą informacje o studentach: imię, nazwisko, rok urodzenia. 
+
+Do implementacji menu użyj typu wyliczeniowego - enum
